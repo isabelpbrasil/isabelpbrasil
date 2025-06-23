@@ -1,8 +1,15 @@
-# Título
+# Hello, my name is Isabel!
 
-## Título 2
+***
 
-**negrito**
+👩‍💻 Isabel Pacheco Brasil is a Mechanical Engineer with over 6 years of experience in technical projects and data analysis , specializing in rocket propulsion and sustainability.
 
-Texto normal
+📊 She has a strong background as a Data Analyst, having developed dashboards in Power BI and Looker , organized databases in BigQuery and SQL , and elaborated governance documents.
 
+***
+
+## My projects:
+
+- [Bootcamp Data Girls](https://github.com/isabelpbrasil/projeto-bootcamp-datagirls)
+
+***
