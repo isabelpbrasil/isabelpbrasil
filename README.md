@@ -10,6 +10,6 @@
 
 ## My projects:
 
-- [Bootcamp Data Girls](https://github.com/isabelpbrasil/projeto-bootcamp-datagirls)
+- [Limpeza dos dados e análise exploratória - Titanic](https://github.com/isabelpbrasil/Limpeza-dos-dados-e-analise-exploratoria_Titanic.git)
 
 ***
