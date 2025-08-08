@@ -13,7 +13,7 @@
 - [Pré processamento e análise exploratória - Titanic](https://github.com/isabelpbrasil/Limpeza-dos-dados-e-analise-exploratoria_Titanic.git)
 - [Pré processamento e análise exploratória - Spotify](https://github.com/isabelpbrasil/Limpeza-dos-dados-e-analise-exploratoria_Spotify.git)
 - [Pré processamento e análise exploratória - Clientes Banco](https://github.com/isabelpbrasil/Limpeza-dos-dados-e-analise-exploratoria_ClientesBanco.git)
-- [Pré processamento e análise exploratória - RH Dataset](https://github.com/isabelpbrasil/Limpeza_dos_Dados_e_Análise_Exploratória_RH_dataset.ipynb)
+- [Pré processamento e análise exploratória - RH Dataset](https://github.com/isabelpbrasil/Limpeza-dos-dados-e-analise-exploratoria_RHdataset.ipynb)
 
 ## Dashboards:
 
