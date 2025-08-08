@@ -18,5 +18,6 @@
 ## Dashboards:
 
 - [Dashboard Satisfação dos Passageiros em Viagens de Avião](https://app.powerbi.com/links/HM6VI9Yfc_?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=linkShare)
-
+- [Dashboard IBM HR Analytics Employee Attrition & Performance](https://app.powerbi.com/links/aaLFJBDp6S?ctid=659ce2b8-0714-4198-8c38-dc9b60aabb57&pbi_source=linkShare)
+  
 ***
