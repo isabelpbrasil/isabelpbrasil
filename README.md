@@ -21,6 +21,8 @@ e
 4- Pré processamento e análise exploratória em python: [Spotify](https://github.com/isabelpbrasil/Limpeza-dos-dados-e-analise-exploratoria_Spotify.git)
   
 5- Pré processamento e análise exploratória em python: [Clientes Banco](https://github.com/isabelpbrasil/Limpeza-dos-dados-e-analise-exploratoria_ClientesBanco.git)
+
+5- Pré processamento e análise exploratória em python: [Desafio Técnico — Indicium Programa Lighthouse](https://github.com/isabelpbrasil/Desafio-Tecnico-Indicium-Programa-Lighthouse.git)
   
   
 ***
