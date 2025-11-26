@@ -6,6 +6,8 @@
 
 📊 She has a strong background as a Data Analyst, having developed dashboards in Power BI and Looker , organized databases in BigQuery and SQL , and elaborated governance documents.
 
+[Add me on linkedin :)](https://www.linkedin.com/in/isabelpbrasil/)
+
 ***
 
 ## My projects:
@@ -19,6 +21,8 @@
 [Spotify](https://github.com/isabelpbrasil/Limpeza-dos-dados-e-analise-exploratoria_Spotify.git)
   
 [Clientes Banco](https://github.com/isabelpbrasil/Limpeza-dos-dados-e-analise-exploratoria_ClientesBanco.git)
+
+[Wine Quality](https://github.com/isabelpbrasil/Limpeza_dos_dados_e_analise_exploratoria_WineQuality.git)
 
 [Desafio Técnico — Indicium Programa Lighthouse](https://github.com/isabelpbrasil/Desafio-Tecnico-Indicium-Programa-Lighthouse.git)
 
